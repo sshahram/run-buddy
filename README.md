@@ -16,9 +16,9 @@ The following images show the mock-up provided by Run Buddy Team:
 
 #### Main Page
 
-![alt text](https://github.com/sshahram/run-buddy/assests/images/050-mock-up.jpg?raw=true)
+![Main Page](https://github.com/sshahram/run-buddy/assets/images/050-mock-up.jpg?raw=true)
 
 #### Privacy Policy Page
 
-![alt text](https://github.com/sshahram/run-buddy/assests/images/100-privacy-complete-1.jpg?raw=true)
+![Privacy Policy](https://github.com/sshahram/run-buddy/assets/images/100-privacy-complete-1.jpg?raw=true)
 
