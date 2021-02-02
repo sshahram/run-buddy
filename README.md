@@ -1,4 +1,4 @@
-# Run Buddy Website
+# Run Buddy Inc.
 
 ## Introduction
 
