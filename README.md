@@ -6,19 +6,32 @@ This project is about creating a website for a fitness company called Run Buddy.
 * The Main Page for the website and
 * The Privacy Policy Page
 
-### My Motivation
+## My Motivation
 
 The main reason behind creating this website is to practice some HTML and CSS Styles.
 
-### Screenshot
+## Built With
+
+* HTML
+* CSS
+
+## Website
+
+https://sshahram.github.io/run-buddy/
+
+## Contribution
+
+Made with ❤️ by Shirin Shahram
+
+## Screenshots
 
 The following images show the mock-up provided by Run Buddy Team:
 
-#### Main Page
+### Main Page
 
-![Main Page](./assets/images/050-mock-up.jpg)
+![alt="Main Page"](./assets/images/050-mock-up.jpg)
 
-#### Privacy Policy Page
+### Privacy Policy Page
 
-![Privacy Policy](./assets/images/100-privacy-complete-1.jpg)
+![alt="Privacy Policy"](./assets/images/100-privacy-complete-1.jpg)
 
