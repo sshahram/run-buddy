@@ -1,4 +1,4 @@
-# Run Buddy Inc.
+# Run Buddy, Inc
 
 ## Introduction
 
@@ -35,3 +35,4 @@ The following images show the mock-up provided by Run Buddy Team:
 
 ![alt="Privacy Policy"](./assets/images/100-privacy-complete-1.jpg)
 
+### ©️2019 Run Buddy, Inc
